@@ -1,16 +1,16 @@
-<!-- Professional GitHub Profile README for CMADEEL -->
+<!-- 💼 Professional GitHub Profile README for CMADEEL -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">CMADEEL</span></h1>
-<h3 align="center">💙 Flutter Developer | 💻 Software Engineer | 🚀 Building Innovative Mobile Apps</h3>
+<h3 align="center">💙 Flutter Developer | 💻 Software Engineer | 🚀 Building Scalable, Real-Time Mobile Solutions</h3>
 
 ---
 
 ### 🧭 About Me
 
-I'm a passionate **Flutter Developer** and **Software Engineering student** focused on building smooth, aesthetic, and high-performance mobile applications.  
-I enjoy solving complex problems, designing user-friendly UIs, and turning creative ideas into working apps.  
+I’m a **Flutter Developer** and **Software Engineering student** passionate about crafting **high-performance, scalable, and visually engaging mobile applications**.  
+I focus on **clean architecture**, **state management**, and **API-driven app ecosystems** that deliver smooth and intelligent user experiences.
 
-💡 *"Clean Code + Beautiful Design = Perfect App"*
+💡 *“Beautiful apps aren’t just built — they’re engineered.”*
 
 ---
 
@@ -20,29 +20,49 @@ I enjoy solving complex problems, designing user-friendly UIs, and turning creat
 |-----------|----------------------|
 | **Languages** | Dart, C#, SQL, Java, JavaScript |
 | **Frameworks** | Flutter, .NET |
-| **Databases** | MySQL, Firebase |
-| **Tools / IDEs** | Android Studio, Visual Studio, Git, GitHub, Figma |
+| **Architectures & Patterns** | **NVVM**, **Bloc**, **Provider**, **GetX**, **Clean Architecture**, **Reactive Programming** |
+| **Databases & Backends** | Firebase, MySQL, Supabase |
+| **APIs** | RESTful APIs, JSON, Google Maps APIs |
+| **Tools / IDEs** | Android Studio, Visual Studio, Figma, Git, GitHub |
 | **Version Control** | Git, GitHub |
-| **Other Skills** | REST API integration, AdMob integration, UI/UX design |
+| **Core Skills** | Real-Time Data Handling, State Management, API Integration, AdMob Monetization, UI/UX Design |
 
 ---
 
 ### 🚀 Current Focus
 
-- 📱 Building Flutter apps with clean UI and Firebase integration  
-- 💰 Implementing AdMob Ads (Banner & Interstitial)  
-- 🌐 Learning Backend Technologies for full-stack app development  
-- 📊 Exploring Big Data Engineering concepts  
+- 🧩 Building enterprise-grade mobile apps with **NVVM**, **Bloc**, and **GetX** architectures  
+- 🔗 Integrating **Supabase** and **Firebase** for authentication, data sync, and cloud operations  
+- 🗺️ Implementing **Google Maps APIs** for real-time tracking and dynamic route updates  
+- 💰 Optimizing app monetization through AdMob and analytics-driven design  
+- 🌐 Working with **large datasets** and **multi-module architectures** for performance  
 
 ---
 
 ### 🧩 Featured Projects
 
-- **Quizzo App** — A complete Flutter quiz app with timer, levels, and result analytics.  
-- **Photo Frame Maker** — A photo editing Flutter app with ad integration.  
-- **IBMApp** — Currency converter with real-time API data and interactive UI.  
+#### 🧠 **Quizzo App**
+A Flutter-based quiz application with multiple levels, timers, and animated result analytics.
 
-*(Check my pinned repositories below ⬇️)*
+#### 🖼️ **Photo Frame Maker**
+A creative photo-editing Flutter app with frame overlays, effects, and AdMob integration.
+
+#### 💱 **IBMApp**
+A simple, elegant currency converter fetching live data via RESTful APIs with smooth animations and a modern UI.
+
+#### 🚘 **Ride-Sharing System (Private Project)**
+> 🔒 *A private large-scale, Uber-like ride-sharing platform built collaboratively with a multi-tech team.*
+
+- 🧠 **Overview:** Dual mobile apps (User & Rider) with a web-based admin dashboard  
+- 🌍 **Key Features:** Real-time location tracking, trip management, and instant driver-rider connections  
+- ⚙️ **Technical Highlights:**
+  - Real-time maps & route computation using **Google Maps APIs**
+  - Global & inter-app state management via **Bloc**, **Provider**, and **GetX**
+  - Backend integration with **Supabase**, **Firebase**, and **.NET APIs**
+  - Secure API handling with scalable database design for **large datasets**
+  - Architecture following **NVVM** and **Clean Architecture principles**  
+- 👥 **Collaboration:** Developed alongside other tech professionals using Git and structured API versioning.  
+- 🧩 **Tech Stack:** Flutter, Supabase, Firebase, REST APIs, NVVM, Provider, Bloc, GetX, .NET Backend  
 
 ---
 
@@ -56,7 +76,7 @@ I enjoy solving complex problems, designing user-friendly UIs, and turning creat
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CMADEEL&show_icons=true&theme=tokyonight" height="150"/>
@@ -65,4 +85,5 @@ I enjoy solving complex problems, designing user-friendly UIs, and turning creat
 
 ---
 
-<h4 align="center">✨ “Building quality apps, one widget at a time.” ✨</h4>
+<h3 align="center">🌍 “Transforming complex ideas into seamless, data-driven mobile experiences.”</h3>
+<h4 align="center">⭐ Continuously learning. Continuously building. Continuously improving. ⭐</h4>
