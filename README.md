@@ -1,17 +1,18 @@
 # 👋 Hi, I'm CMADEEL
 
 I’m a passionate **Flutter Developer** and **Software Engineer** focused on creating clean, scalable, and high-performance mobile applications.  
-I love designing smooth user experiences and architecting reliable systems that handle real-world data efficiently.
+I specialize in crafting elegant user interfaces and architecting robust backend systems to support real-world data and global user bases.
 
 ---
 
 ## 💻 Technical Expertise
 
 - **Languages:** Dart, C#, SQL  
-- **Frameworks & Tools:** Flutter, .NET Framework, Firebase, Supabase  
+- **Frameworks:** Flutter, .NET Framework  
+- **Backend & Databases:** Dart Frog, Supabase, Firebase, PostgreSQL, MySQL  
 - **Architectural Patterns:** MVVM, MVC, Clean Architecture  
 - **State Management:** GetX, Provider, BLoC  
-- **Backend & APIs:** RESTful APIs, Supabase, JSON, MySQL  
+- **API & Networking:** RESTful APIs, JSON, Supabase APIs  
 - **Version Control:** Git, GitHub  
 - **Platforms:** Android, Web, Windows  
 
@@ -45,22 +46,23 @@ A large-scale **ride-hailing application** inspired by Uber and Yango.
 Developed in collaboration with a professional tech team and designed to handle **large data operations** with **multi-app communication**.  
 
 **Project Highlights:**
-- Built with **Flutter** and **Supabase backend**  
+- Built using **Flutter** (frontend) and **Dart Frog** (backend)  
+- Backend integrated with **Supabase** and **PostgreSQL** for scalable data management  
 - Includes:
   - **Admin Panel (Web Based)**
   - **Customer App**
   - **Rider App** (for both car and bike riders)
 - Implements **global and app-to-app state management**
-- Uses **MVVM**, **GetX**, **Provider**, and **BLoC** patterns for scalable architecture
-- Focused on **real-time updates**, **optimized performance**, and **API-driven workflows**
+- Utilizes **MVVM**, **GetX**, **Provider**, and **BLoC** architectures  
+- Focused on **real-time updates**, **optimized performance**, and **complex API orchestration**
 
 *(Note: This project remains private due to client confidentiality.)*
 
 ---
 
 ## 🎯 Future Goals
-Continuously improving in **backend integration**, **Supabase**, and **data-driven architecture**,  
-with a mission to build **intelligent global applications** and contribute to **open-source Flutter projects**.
+To deepen expertise in **Dart backend frameworks (like Dart Frog)** and **Supabase integrations**,  
+while contributing to **open-source Flutter projects** and building **globally scalable applications**.
 
 ---
 
