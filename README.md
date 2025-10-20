@@ -7,7 +7,7 @@ I specialize in crafting elegant user interfaces and architecting robust backend
 
 ## 💻 Technical Expertise
 
-- **Languages:** Dart, SQL  
+- **Languages:** Dart, python,java,SQL 
 - **Frameworks:** Flutter 
 - **Backend & Databases:** Dart Frog, Supabase, Firebase, PostgreSQL, MySQL,SQLite  
 - **Architectural Patterns:** MVVM, MVC, Clean Architecture  
