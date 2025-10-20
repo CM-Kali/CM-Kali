@@ -7,9 +7,9 @@ I specialize in crafting elegant user interfaces and architecting robust backend
 
 ## 💻 Technical Expertise
 
-- **Languages:** Dart, C#, SQL  
-- **Frameworks:** Flutter, .NET Framework  
-- **Backend & Databases:** Dart Frog, Supabase, Firebase, PostgreSQL, MySQL  
+- **Languages:** Dart, SQL  
+- **Frameworks:** Flutter 
+- **Backend & Databases:** Dart Frog, Supabase, Firebase, PostgreSQL, MySQL,SQLite  
 - **Architectural Patterns:** MVVM, MVC, Clean Architecture  
 - **State Management:** GetX, Provider, BLoC  
 - **API & Networking:** RESTful APIs, JSON, Supabase APIs  
@@ -66,12 +66,9 @@ while contributing to **open-source Flutter projects** and building **globally s
 
 ---
 
-## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 💻 [GitHub](https://github.com/CMADEEL)  
-- ✉️ Email: your.email@example.com  
 
----
 
-⭐ *“Building scalable digital experiences, one line of code at a time.”*
+
+
+
