@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CMADEEL
+# 👋 Hi, I'm ADEEL
 
 I’m a passionate **Flutter Developer** and **Software Engineer** focused on creating clean, scalable, and high-performance mobile applications.  
 I specialize in crafting elegant user interfaces and architecting robust backend systems to support real-world data and global user bases.
