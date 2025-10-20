@@ -14,7 +14,7 @@ I specialize in crafting elegant user interfaces and architecting robust backend
 - **State Management:** GetX, Provider, BLoC  
 - **API & Networking:** RESTful APIs, JSON, Supabase APIs  
 - **Version Control:** Git, GitHub  
-- **Platforms:** Android, Web, Windows  
+- **Platforms:** Android, Web, Windows,ios,linux  
 
 ---
 
